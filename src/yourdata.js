@@ -167,9 +167,10 @@ export default {
   backgroundHeading: "Background",
   Designation:"Software Engineering Intern",
   Company:"Svirtz Technology solutions",
-  backgroundPara1: "Designing and developing enterprise application for the Android platform. Adopting Agile methodology for managing the development of the project and leading the Android Team.",
-  backgroundPara2: "Designing and developing the official website for the company from scratch single handed",
-  backgroundPara3: "Responsible for overlooking the user experience and identifying issues with software under development",
+  backgroundPara1: "Implemented DevOps Architecture with extensive use of Docker and AWS functionalities", 
+  backgroundPara2: "Developing enterprise application for the Android platform",
+  backgroundPara3: "Adopting Agile methodology for managing the development of the project and leading the Android Team",
+  backgroundpara4: "Designing and developing the official website for the company from scratch."
   
   // End Background Section -----------------
 
