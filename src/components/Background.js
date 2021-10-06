@@ -26,6 +26,9 @@ const Background = () => {
             <br></br>
             {data.backgroundPara3}
             <br></br>
+            <br></br>
+            {data.backgroundPara4}
+            <br></br>
             </p>
           </div>
           <div className="image-wrapper">
