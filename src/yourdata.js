@@ -20,7 +20,7 @@ export default {
 
   //   Header Details ---------------------
   name: "Yash",
-  displayPicture: "https://i.ibb.co/ZdBdcSy/1630838996654.jpg",
+  displayPicture: "https://i.ibb.co/JkKyDDn/Screenshot-2021-10-05-225636.jpg",
   headerTagline: [
     //Line 1 For Header
     "An engineer who",
